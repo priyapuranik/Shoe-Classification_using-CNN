@@ -16,4 +16,6 @@ This project aims to classify different types of shoes using Convolutional Neura
 
 *Slippers (2): Precision = 90%, Recall = 79%, F1-Score = 84%.*<br>
 
-**The model was trained and tested on a dataset of 156 images, with balanced precision and recall for most classes.**
+**The model was trained and tested on a dataset of 156 images, with balanced precision and recall for most classes.**<br>
+
+<u>The purpose of this project is to develop a deep learning model capable of classifying different types of footwear, which can be used in e-commerce platforms or retail applications to automatically tag and categorize footwear images.</u>
