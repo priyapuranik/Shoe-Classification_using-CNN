@@ -18,4 +18,4 @@ This project aims to classify different types of shoes using Convolutional Neura
 
 **The model was trained and tested on a dataset of 156 images, with balanced precision and recall for most classes.**<br>
 
-<u>The purpose of this project is to develop a deep learning model capable of classifying different types of footwear, which can be used in e-commerce platforms or retail applications to automatically tag and categorize footwear images.</u>
+<span style="text-decoration: underline;">The purpose of this project is to develop a deep learning model capable of classifying different types of footwear, which can be used in e-commerce platforms or retail applications to automatically tag and categorize footwear images.</span>
